@@ -1,0 +1,48 @@
+/* my website  */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  background-color: papayawhip;
+}
+
+a {
+    color: peru;
+}
+
+body {
+    font-family: Cambria;
+    background-color: papayawhip;
+}
+h1 {
+    color: peru;
+}
+p {
+    font-family: cambria;
+    color: black;
+}
+.my-photo {
+    width: 200px;
+    max-width: 720px;
+    border-radius: 1rem;
+}
+
+button {
+    background-color: peru;
+    border-radius: 0.2rem;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+  }
